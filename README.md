@@ -1,5 +1,5 @@
 # Mini_Project
-#### For Sem-04 Mini Project.
+### For Sem-04 Mini Project.
 > [!NOTE]
 > This file contains all the links related to the Mini project.
  
